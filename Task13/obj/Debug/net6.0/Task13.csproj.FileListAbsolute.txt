@@ -1,0 +1,16 @@
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.GlobalUsings.g.cs
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+E:\C#\HomeWork_GB_C#Lesson2\Task13\bin\Debug\net6.0\Task13.exe
+E:\C#\HomeWork_GB_C#Lesson2\Task13\bin\Debug\net6.0\Task13.deps.json
+E:\C#\HomeWork_GB_C#Lesson2\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+E:\C#\HomeWork_GB_C#Lesson2\Task13\bin\Debug\net6.0\Task13.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task13\bin\Debug\net6.0\ref\Task13.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task13\bin\Debug\net6.0\Task13.pdb
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\ref\Task13.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.pdb
+E:\C#\HomeWork_GB_C#Lesson2\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
