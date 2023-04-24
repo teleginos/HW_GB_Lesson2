@@ -1,0 +1,16 @@
+E:\C#\HomeWork_GB_C#Lesson2\Task15\bin\Debug\net6.0\Task15.exe
+E:\C#\HomeWork_GB_C#Lesson2\Task15\bin\Debug\net6.0\Task15.deps.json
+E:\C#\HomeWork_GB_C#Lesson2\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+E:\C#\HomeWork_GB_C#Lesson2\Task15\bin\Debug\net6.0\Task15.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task15\bin\Debug\net6.0\ref\Task15.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task15\bin\Debug\net6.0\Task15.pdb
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.GlobalUsings.g.cs
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\ref\Task15.dll
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.pdb
+E:\C#\HomeWork_GB_C#Lesson2\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
